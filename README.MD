@@ -8,8 +8,10 @@ Also available as a Tampermonkey userscript if you prefer not to install an exte
 
 ## Screenshots
 
-![Search results page with toolbar](ScreenShots/search-results.png)
-![Exported report with photos](ScreenShots/report.png)
+![Screenshot 1](https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-01.png)
+![Screenshot 2](https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-02.png)
+![Screenshot 3](https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-03.png)
+![Screenshot 4](https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-04.png)
 
 ---
 
