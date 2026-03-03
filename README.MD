@@ -8,10 +8,14 @@ Also available as a Tampermonkey userscript if you prefer not to install an exte
 
 ## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-01.png)
-![Screenshot 2](https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-02.png)
-![Screenshot 3](https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-03.png)
-![Screenshot 4](https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-04.png)
+<table>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-01.png"><img src="https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-01.png" width="220"/></a></td>
+    <td><a href="https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-02.png"><img src="https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-02.png" width="220"/></a></td>
+    <td><a href="https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-03.png"><img src="https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-03.png" width="220"/></a></td>
+    <td><a href="https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-04.png"><img src="https://raw.githubusercontent.com/sparrowFlagger/Save-and-Print-Car-Part.com-Extension/main/ScreenShots/SavePrintCar-Part_SereenShot-04.png" width="220"/></a></td>
+  </tr>
+</table>
 
 ---
 
